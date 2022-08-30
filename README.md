@@ -63,7 +63,7 @@ Form terms include:  [color films (visual works)](http://vocab.getty.edu/page/aa
 ### Internet Media Type: 
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
-Media type(s) in this collection: [video/mp4](https://www.iana.org/assignments/media-types/video/mp4); audio/mp3
+Media type(s) in this collection: [video/mp4](https://www.iana.org/assignments/media-types/video/mp4)
 
 ### Digital Origin
 The method by which a resource achieved digital form.
