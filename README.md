@@ -79,7 +79,7 @@ A term or phrase representing the primary topic(s) on which a work is focused.
 Common subject terms used in this collection include: [Mines and mineral resources](http://id.worldcat.org/fast/1022541); [Ghost towns](http://id.worldcat.org/fast/942431); [Marriage](http://id.worldcat.org/fast/1010443); [Voyages and travels](http://id.worldcat.org/fast/1169308); [Exhibitions](http://id.worldcat.org/fast/918097)  
 
 ### Subject Name
-A name used as a subject or additional authors, recipients, or names mentioned within the record. Names in this collection are often friends and family to Ann Roy.
+A name used as a subject or additional authors, recipients, or names mentioned within the record.
 
 Common names include: [Colorado Mountain Club. Boulder Group](http://id.worldcat.org/fast/790056)
 
